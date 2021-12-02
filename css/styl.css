@@ -117,7 +117,6 @@ a{
   background-image: url(../images/news-bg.jpg);
   height:270px;
   margin-bottom: 40px;
-  /* min-height: 100vh; */
 }
 
 #news .page-title{
@@ -471,7 +470,6 @@ textarea{
 }
 
 #contact{
-  /* text-align: center; */
   margin-left: auto;
   margin-right: auto;
 }
